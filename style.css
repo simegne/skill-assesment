@@ -1,0 +1,13 @@
+table,tr,th,td{
+    border: 1px solid blueviolet;
+    border-collapse: collapse;
+    margin-left: 70px;
+    margin-top :20px;
+}
+    
+h3{
+    height: 30px;
+    background-color: aqua;
+}
+
+    
