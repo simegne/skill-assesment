@@ -52,4 +52,8 @@ html, body {
     background-color: #1363DF;
     grid-area: c;
   }
-      
+      .navbar-inverse {
+  background-color:yellow;
+       }
+  
+    
